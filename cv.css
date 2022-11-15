@@ -1,0 +1,10 @@
+.inicio {
+
+display: flex;
+width: 800px;
+margin: auto;
+}
+
+.encabezado{
+    width: 200px;
+}
